@@ -1,0 +1,10 @@
+myenv/
+venv/
+__pycache__/
+*.pyc
+
+*.npy
+*.pt
+
+market_test.py
+market_test1.py
